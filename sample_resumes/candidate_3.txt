@@ -1,0 +1,10 @@
+FICTIONAL DEMONSTRATION RESUME — NOT A REAL APPLICANT
+
+Rohan Das
+Data Analytics student
+
+Skills: SQL, Excel, Power BI, data analysis, data visualization and communication.
+
+Project: built a dashboard for hiring funnel reporting from synthetic data.
+
+Education: BA Economics with analytics coursework, expected 2026. Used Python for introductory data cleaning.

@@ -1,0 +1,10 @@
+FICTIONAL DEMONSTRATION RESUME — NOT A REAL APPLICANT
+
+Aarav Mehta
+Computer Science student
+
+Skills include Python, NLP, machine learning, scikit-learn, pandas, SQL, prompt engineering, communication and problem solving.
+
+Project: built a resume text classification prototype using TF-IDF and scikit-learn.
+
+Education: BSc Computer Science, expected 2027.

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#10243d"><title>SmartHire AI | Recruitment Workspace</title>
+  <link rel="stylesheet" href="/static/style.css?v=20261018-golden-prompt-design">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#dashboard" aria-label="SmartHire AI dashboard">
+        <img class="brand-mark" src="/static/smarthire-mark.svg" alt=""><span><b>SmartHire</b><small>Hiring workspace</small></span>
+      </a>
+      <div class="nav-label">WORKSPACE</div>
+      <nav id="navigation" aria-label="Main navigation">
+        <button class="nav-item active" data-page="dashboard"><span class="nav-icon">⌂</span>Dashboard</button>
+        <button class="nav-item" data-page="jobs"><span class="nav-icon">▤</span>Jobs &amp; roles</button>
+        <button class="nav-item" data-page="screening"><span class="nav-icon">◉</span>Resume screening</button>
+        <button class="nav-item" data-page="insights"><span class="nav-icon">◌</span>Candidate insights</button>
+        <button class="nav-item" data-page="assistant"><span class="nav-icon">✳</span>Recruiter assistant</button>
+        <button class="nav-item" data-page="decisions"><span class="nav-icon">☷</span>Decision register</button>
+        <button class="nav-item" data-page="reports"><span class="nav-icon">⇩</span>Reports &amp; export</button>
+      </nav>
+    </aside>
+
+    <main class="main-area">
+      <div id="notice" class="notice" role="status" hidden></div>
+      <section id="page-content" class="page-content" aria-live="polite"></section>
+      <footer class="page-footer"><span>SmartHire AI</span><span>Recruitment decision support · Scores reflect text relevance only</span></footer>
+    </main>
+  </div>
+  <script src="/static/app.js?v=20261018-remove-topbar" defer></script>
+</body>
+</html>

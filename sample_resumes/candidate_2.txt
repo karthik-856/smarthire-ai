@@ -1,0 +1,10 @@
+FICTIONAL DEMONSTRATION RESUME — NOT A REAL APPLICANT
+
+Maya Iyer
+Software Development student
+
+Experience with Python, SQL, REST API, FastAPI, JavaScript, HTML, CSS, Git and testing.
+
+Project: implemented a candidate tracking API and tested endpoints.
+
+Education: BTech Information Technology, expected 2027. Interested in clear communication and collaborative problem solving.
